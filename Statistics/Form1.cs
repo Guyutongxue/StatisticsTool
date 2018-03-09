@@ -237,7 +237,7 @@ namespace Statistics
                             }
                         case "help":
                             {
-                                rtbLog.Text += @"Statistic Tool Command Line
+                                rtbLog.Text += @"Statistics Tool Command Line
 by Guyutongxue
 Usage: command [options]
 Command:

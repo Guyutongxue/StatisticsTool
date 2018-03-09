@@ -1,2 +1,4 @@
 list.txt
 index.txt
+*.suo
+.vs/
