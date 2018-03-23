@@ -6,6 +6,8 @@
 
 ## 使用方法
 
+在Visual Studio中打开项目，然后生成运行。文件在 `bin\Debug` 下。
+
 ### 数据读取
 
 本工具需要两个文本文件： `list.txt` 和 `index.txt` 。
